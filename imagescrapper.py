@@ -51,6 +51,6 @@ def scrape_images(url, directory):
     recursive_scrape(url)
 
 # Example usage:
-url = "https://umw.edu.pk"
+url = "https://example.com"
 directory = "images"
 scrape_images(url, directory)
